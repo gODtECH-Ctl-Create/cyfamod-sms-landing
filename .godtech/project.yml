@@ -1,0 +1,9 @@
+project:
+  state: active
+  priority: medium
+  current_focus: "Cyfamod SMS product-facing landing surface"
+  next_step: "Keep the landing experience aligned with the school-management product and current commercial messaging"
+  blockers:
+    - []
+  status_note: "Professional/company work; coordinate changes with the product platform rather than inventing separate product scope."
+  last_worked_on: "2026-10-04"
